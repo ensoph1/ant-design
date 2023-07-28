@@ -11,7 +11,7 @@ const App: React.FC = () => (
       </span>
     }
   >
-    <Button type="primary">Create Now</Button>
+    <Button type="primary">Add New PM</Button>
   </Empty>
 );
 
